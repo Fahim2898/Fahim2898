@@ -1,0 +1,24 @@
+Consider that you have been hired to design and develop a 
+university management system. Write Java Code for the problem.
+For the first version of the system, you are required to 
+
+1. store the information of all the Teachers, Students
+and Courses. 
+2. For Teachers and Students you must 
+store first name, last name, department, and age. 
+3. Teachers also have Employee Id and monthly salary. 
+4. The student has Student Id and Course information that 
+he has enrolled in. 
+5. A course has a course title, course code,
+total enrolled student, and total credit hours.
+
+*A course has assigned to course teachers 
+
+*A student is enrolled in a course then the number of enrolled 
+students increased.
+
+ Need to calculate Teachers and Staff 
+yearly salary and Teachers have 10% bonus and staff have
+ a 5% bonus. We also need to know that how many students 
+are enrolled in a specific subject and Total credit hours
+ are taken by Specific teaches.

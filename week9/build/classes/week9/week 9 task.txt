@@ -1,0 +1,15 @@
+Instructions
+* Solve the problem with Java Code
+* Submit only the .java or .text file
+* Read the questions and write java code accordingly
+
+** Read the user-story and write java code with the help of Inheritance concept. Upload your java files.
+In Hotel Sea-Crown, there are 40 rooms, among them, 10 rooms are deluxe rooms and 30 rooms are standard rooms.
+All hotel rooms have the common fields room-id and customer-id who has rented the room. But the deluxe room has
+another field that is room-size and the standard room has another field that is AC-Availability. The customer
+who rented the room has common attributes - Id, name.
+
+•Now break down the scenario into proper meaningful classeImplement encapsulation on the classes.       
+•Implement inheritance on only those classes which are needed to be inherited.              
+•Explain what the benefit you got by using encapsulation and inheritance in your code.        
+•Write a method named “rent_Room” through which customer can rent a room. (Prepare the logic by yourself and logic should be realistic).
